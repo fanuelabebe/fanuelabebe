@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fanuel</h1>
-<h3 align="center">A passionate android developer from Ethiopia, Currently working on Generative AI and Machine Learning</h3>
+<h3 align="center">A Software Developer from Ethiopia who has a mobile development specially Android</h3>
 
 - 🔭 I’m currently working on [Gen AI and Machine Learning](https://github.com/fanuelabebe/Contract_Advisor_RAG)
 
